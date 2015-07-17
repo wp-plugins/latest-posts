@@ -88,8 +88,8 @@ class ST_Latest_Posts_Widget extends WP_Widget{
 					endif;
 
 					$output .='<div class="media-body">';
-					$output .= '<h3 class="entry-title"><a href="'.get_permalink().'">'. get_the_title() .'.</a></h3>';
-					$output .= '<div class="entry-meta small">' . get_the_time() . ', ' . get_the_date('d M Y') . '</div>';
+					$output .= '<h3 class="entry-title"><a href="'.get_permalink().'">'. get_the_title() .'</a></h3>';
+					$output .= '<div class="entry-meta small"><span class="st-lp-time">'. get_the_time() . '</span> <span clss="st-lp-date">' . get_the_date('d M Y') . '</span></div>';
 					$output .='</div>';
 
 				$output .='</div>';

@@ -3,6 +3,9 @@
         line-height: normal;
         margin: 0;
     }
+    .widget .latest-posts .entry-title a{
+        text-decoration: none;
+    }
     .media, .media .media {
         margin-top: 20px;
         overflow: hidden;
