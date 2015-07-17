@@ -5,7 +5,7 @@ Plugin URI: https://wordpress.org/plugins/latest-posts
 Description: Latest potst widget to display recent posts.
 Author: ShapedTheme
 Author URI: http://shapedtheme
-Version: 1.0
+Version: 1.1
 License: GPL2
 */
 
