@@ -1,9 +1,9 @@
 === Latest Posts ===
-Contributors: shapedtheme, rubel_miah, shamimmiashuhagh
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ashidmiah@gmail.com&lc=US&item_name=Donate&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest
+Contributors: shapedplugin, shapedtheme, rubel_miah, shamimmiashuhagh
+Donate link: http://shapedplugin.com
 Tags: latest posts, widget, latest posts widget, posts widget, category posts, latest category posts, post thumbnails
 Requires at least: 4.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,11 @@ Latest posts widget to display recent posts from category.
 
 == Description ==
 
-<a href="http://shapedtheme.com/demo/plugins/latest-posts">Live demo</a>
+<h4>Latest Posts by <a href="http://shapedplugin.com">shapedplugin.com</a></h4>
+<p>Latest Posts is a WordPress widget plugin. This plugin allows you to show latest blog posts with thumb, post title, date with time. It is light-weight plugin and easy to use in your website powered by Wordpress.</p>
+
+
+<a href="http://shapedplugin.com/demo/?page_id=13">Live demo</a> | <a href="http://shapedplugin.com/support/">Support</a>
 
 == Installation ==
 
